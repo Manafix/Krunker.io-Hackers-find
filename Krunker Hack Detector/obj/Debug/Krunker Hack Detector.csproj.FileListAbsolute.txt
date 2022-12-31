@@ -1,0 +1,11 @@
+C:\Users\Manafix\source\repos\Krunker Hack Detector\Krunker Hack Detector\bin\Debug\Krunker Hack Detector.exe.config
+C:\Users\Manafix\source\repos\Krunker Hack Detector\Krunker Hack Detector\bin\Debug\Krunker Hack Detector.exe
+C:\Users\Manafix\source\repos\Krunker Hack Detector\Krunker Hack Detector\bin\Debug\Krunker Hack Detector.pdb
+C:\Users\Manafix\source\repos\Krunker Hack Detector\Krunker Hack Detector\obj\Debug\Krunker Hack Detector.csproj.AssemblyReference.cache
+C:\Users\Manafix\source\repos\Krunker Hack Detector\Krunker Hack Detector\obj\Debug\Krunker Hack Detector.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manafix\source\repos\Krunker Hack Detector\Krunker Hack Detector\obj\Debug\Krunker_Hack_Detector.Main.resources
+C:\Users\Manafix\source\repos\Krunker Hack Detector\Krunker Hack Detector\obj\Debug\Krunker_Hack_Detector.Properties.Resources.resources
+C:\Users\Manafix\source\repos\Krunker Hack Detector\Krunker Hack Detector\obj\Debug\Krunker Hack Detector.csproj.GenerateResource.cache
+C:\Users\Manafix\source\repos\Krunker Hack Detector\Krunker Hack Detector\obj\Debug\Krunker Hack Detector.csproj.CoreCompileInputs.cache
+C:\Users\Manafix\source\repos\Krunker Hack Detector\Krunker Hack Detector\obj\Debug\Krunker Hack Detector.exe
+C:\Users\Manafix\source\repos\Krunker Hack Detector\Krunker Hack Detector\obj\Debug\Krunker Hack Detector.pdb
